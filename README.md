@@ -8,7 +8,7 @@
 
 | Team Member Name | Email Address | GitHub Username |
 | ---------------- | ------------- | --------------- |
-| [Name 1]         | [Email 1]     | [Username 1]    |
+| Sofia Hedlund         | shedlund@seas.upenn.edu     | sofia-hedlund    |
 | [Name 2]         | [Email 2]     | [Username 2]    |
 
 **GitHub Repository URL:**
