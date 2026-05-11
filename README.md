@@ -89,7 +89,46 @@ Through the progression of the course, we learned how to develop the intuition t
 
 ## 4. Project Photos & Screenshots
 
-![1778466168461](image/README/1778466168461.png)![1778466177596](image/README/1778466177596.png)![1778466187776](image/README/1778466187776.png)![1778466196676](image/README/1778466196676.png)![1778466205655](image/README/1778466205655.png)![1778466221515](image/README/1778466221515.png)![1778466348717](image/README/1778466348717.png)![1778467104750](image/README/1778467104750.png)![1778466394014](image/README/1778466394014.png)
+The standalone PCBA, top:
+
+ ![1778466168461](image/README/1778466168461.png)
+
+The standard PCBA, bottom: 
+
+![1778466177596](image/README/1778466177596.png)
+
+Thermal camera images while the board is running under load (you may use your Board Bringup Thermal image here!):
+
+![1778466187776](image/README/1778466187776.png) 
+
+The Altium board design in 2D top view: 
+
+![1778466196676](image/README/1778466196676.png)
+
+The Altium board design in 2D bottom view:
+
+![1778466205655](image/README/1778466205655.png)
+
+The Altium Board design in 3D top vievw:
+
+![1778466221515](image/README/1778466221515.png) 
+
+The Altium Board design in 3D bottom view:
+
+![1778467464824](image/README/1778467464824.png)
+
+Node-RED dashboard:
+
+![1778466348717](image/README/1778466348717.png)
+
+Node-RED backend:![1778467104750](image/README/1778467104750.png)Hardware pictures:
+
+![1778467582703](image/README/1778467582703.png)![1778467601016](image/README/1778467601016.png)![1778467609132](image/README/1778467609132.png)![1778467616964](image/README/1778467616964.png)
+
+System Diagram:
+
+![1778466394014](image/README/1778466394014.png)
+
 
 ## 5. Codebase
 
