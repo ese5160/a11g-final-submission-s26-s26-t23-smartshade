@@ -15,6 +15,7 @@
 
 ## 1. Video Presentation
 
+[Link](https://www.youtube.com/watch?v=6NbRRvrbm60)
 
 ## 2. Project Summary
 
@@ -88,7 +89,7 @@ Through the progression of the course, we learned how to develop the intuition t
 
 ## 4. Project Photos & Screenshots
 
-![1778466168461](image/README/1778466168461.png)![1778466177596](image/README/1778466177596.png)![1778466187776](image/README/1778466187776.png)![1778466196676](image/README/1778466196676.png)![1778466205655](image/README/1778466205655.png)![1778466221515](image/README/1778466221515.png)![1778466348717](image/README/1778466348717.png)![1778466359008](image/README/1778466359008.png)![1778466394014](image/README/1778466394014.png)
+![1778466168461](image/README/1778466168461.png)![1778466177596](image/README/1778466177596.png)![1778466187776](image/README/1778466187776.png)![1778466196676](image/README/1778466196676.png)![1778466205655](image/README/1778466205655.png)![1778466221515](image/README/1778466221515.png)![1778466348717](image/README/1778466348717.png)![1778467104750](image/README/1778467104750.png)![1778466394014](image/README/1778466394014.png)
 
 ## 5. Codebase
 
@@ -97,7 +98,7 @@ Do *not* commit any of your source code to this repository. Rather, provide link
 - Final embedded C firmware:
 
   [https://github.com/ese5160/final-project-firmware-s26-t23-smartshade ](https://github.com/ese5160/final-project-firmware-s26-t23-smartshade)
-- Node Red dashboard:
+- Node Red dashboard
 
     Editor link:[http://20.64.208.7:1880/#flow/1f5f3ced3fdd3fcc](http://20.64.208.7:1880/#flow/1f5f3ced3fdd3fcc)
 
